@@ -1,0 +1,90 @@
+Alumno: Carlos Enrique Alvarez Iquiapaza
+
+4C15 B
+
+Laravel _Controladores y Vistas
+
+
+
+Creando Controladores
+
+3.	Probaremos el Index de la aplicación. Ingrese en la URL, la siguiente dirección: 
+ 
+http://gestorlaravel.com 
+  
+Imagen gestor laravel(ges_lara.jpg)
+
+
+8.Modifique la ruta de home por: “/validado” Ingrese a la siguiente URL: http://gestorlaravel.com/validado
+
+Imagen de validacion (validacion_inicio.jpg)
+
+
+1. Ubique el archivo GestorImagenes/app/Http/Middleware/Authenticate.php, y comente el código de validación en la función handle, de modo que quede de la siguiente manera:
+
+que el usuario se encuentre “logeado”, se acceda a la petición recibida en los parámetros recibidos. 
+ 
+Ahora intente ingresar a la siguiente URL: 
+ 
+http://gestorlaravel.com /validado/fotos
+
+Imagen validacion fotos (vali_fotos.jgp)
+
+ahora intente ingresar a la siguiente URL (probaremos otro action del controlador de Foto): 
+ 
+http://gestorlaravel.com/validado/fotos/crear-foto 
+
+ 
+imagen crear foto(cre_fo.jpg)
+
+
+Ahora intente ingresar una URL inexistente. 
+
+Imagen de nolink (fak_lin.jpg)
+
+2.	Abra el archivo copiado y cambie el texto “be right back” por “not found page” 
+3.	Nuevamente, intente introducir una URL inexistente.  
+
+Image no found page (no_page.jpg)
+
+
+1.	Abra el buscador y coloque la siguiente URL: http://gestorlaravel.com El resultado debería ser el siguiente: 
+ Imagen 3 imagenes de inicio  y registro (inire.jpg)
+
+
+10.	Ubique la sub-carpeta dentro de Vistas de nombre “Auth” y renombre a: “validacion”. 
+11.	En el navegador ponga la siguiente dirección: 
+  
+http://gestorlaravel.com/validacion/inicio 
+ 
+El resultado debería ser el siguiente: 
+
+imagen de logeo (log.jpg)
+
+Imagen de registro (ro.jpg)
+
+
+Creando Vista para recuperar la contraseña 
+
+3.-Abra el controlador de validacion y busque la accion get recuperar
+
+Imagen de recuperacion de cuenta (recu.jpg)
+
+
+
+
+OBSERVACIONES
+
+1.-La estructura de php tiene muchas simillitudes con la de javascript
+2.-Vimos cual es la utilidad de dejas el return o return view
+3.-El link brindado por el laboratorio no era el correcto para la realizacion de mi laboratorio
+4.-Vimos como crear el formulario de perdida de cuenta
+
+
+CONCLUSIONES
+
+1.-Vimos como dar estilos a formularios en php
+2.-La estructura de php tiene muchas simillitudes con la de javascript
+3.-Para la realizacion de este laboratorio fue necesario conocimiento previo en laboratorios
+anteriores
+4.-Vimos como dar a una pagina un mensaje de error a un link que no existe

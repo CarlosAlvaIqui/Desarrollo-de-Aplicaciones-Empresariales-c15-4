@@ -1,0 +1,151 @@
+
+
+Alumno Carlos Enrique Alvarez Iquiapaza
+4C15 B
+
+
+III.- FUNDAMENTO TEÓRICO: Revise sus diapositivas del tema antes del desarrollo del laboratorio. IV.- NORMAS EMPLEADAS: No aplica V.- RECURSOS: ? En este laboratorio cada alumno trabará con un equipo con Windows 8. 
+ 
+VI.- METODOLOGÍA PARA EL DESARROLLO DE LA TAREA: ? El desarrollo del laboratorio es individual. 
+ 
+VII.- PROCEDIMIENTO: Nota: Las secciones en cursivas son demostrativas, pero sirven para que usted pueda instalar las herramientas de desarrollo en un equipo externo. INSTALACIÓN DE COMPOSER Diríjase a la página: http://getcomposer.org y descargue la versión más reciente para Windows. 
+ 
+ 
+ Desarrollo de Aplicaciones Empresariales – Laravel 
+Nro. DD-106 Página 2 de 9 
+ 
+ 
+ 
+ 
+La instalación se hará de automática, sin embargo, una manera de comprobar que fue realizada correctamente es abriendo la ventana de comandos y escribiendo “Composer”, debería mostrarse una serie de comandos disponibles con este gestor de librerías.  
+ 
+ IMAGEN de COMPROBACION DE COMPOSER(Composer.jpg)
+
+
+
+
+ 
+INSTALACIÓN DE SUBLIME TEXT 3 Ir a la página principal de Sublime text y descargar la versión portable para Windows. 
+ 
+Desarrollo de Aplicaciones Empresariales – Laravel 
+Nro. DD-106 Página 3 de 9 
+ 
+ 
+Descomprimir el contenido en una carpeta dentro de su ordenador 
+ 
+ 
+Ahora dirijámonos a Google y busquemos:” Sublime text package control” e ingresemos a la página en el link de Installation. 
+ 
+ 
+ 
+Copiar el texto que corresponde a Sublime text 3  
+ 
+ 
+ 
+Abrimos Sublime Text, luego en el menú View -> Show Console, y pegamos el código que acabamos de copiar. 
+ Desarrollo de Aplicaciones Empresariales – Laravel 
+Nro. DD-106 Página 4 de 9 
+ 
+ 
+ 
+ 
+Al finalizar la instalación de dependencias, obtendremos un mensaje para reiniciar Sublime Text 3 Clic en aceptar. 
+ 
+ 
+ 
+Cierre Sublime Text y vuelva a abrirlo. 
+Una vez abierto el programa presione la combinación de teclas Shift + p y escriba “Install Package” y elija la primera opción: 
+ 
+ 
+Se abrirá una nueva ventana instaladora de dependencias, escriba: “sublimecodeintel” y elija la primera opción: 
+ 
+ Desarrollo de Aplicaciones Empresariales – Laravel 
+Nro. DD-106 Página 5 de 9 
+ 
+ 
+ 
+Espere mientras el proceso de instalación es realizado: 
+ 
+ 
+ 
+Una vez terminada la instalación aparecerá una ventana con algunos comandos disponibles en la nueva extensión. 
+ 
+ 
+ 
+Repetir el paso para ingresar al install package y ahora instalemos la extensión: advancedNewFile 
+ 
+ 
+ Desarrollo de Aplicaciones Empresariales – Laravel 
+Nro. DD-106 Página 6 de 9 
+ 
+ 
+ 
+Repetir el paso para ingresar al install package y ahora instalemos la extensión: Emmet 
+ 
+ 
+Repetir el paso para ingresar al install package y ahora instalemos la extensión: SideBarEnhancements 
+ 
+ 
+ 
+Hasta ahora, hemos instalado todo lo necesario para empezar a desarrollar nuestro proyecto. 
+CREANDO UN PROYECTO CON LA ESTRUCTURA LARAVEL Para crear un nuevo proyecto abra la ventana de comandos con ruta en el directorio de proyectos de wamp server o de xamp en caso lo tengan instalado. 
+Y escriban el siguiente comando: 
+Composer create-project laravel/laravel=5.0 GestorImagenes Crearemos un proyecto en la versión 5 de Laravel, ya que tiene algunos componentes a nivel de archivos necesarios que ya no se encuentran en versiones posteriores (5.1 y 5.2).
+
+ 
+Nuestro proyecto se llamará GestorImagenes 
+ 
+IMAGEN DESCARGA_EJEMPLO_LARAVEL(des_laravel.jpg)
+
+
+
+
+
+ 
+El proceso de creación iniciará. 
+ 
+ Desarrollo de Aplicaciones Empresariales – Laravel 
+Nro. DD-106 Página 7 de 9 
+ 
+ 
+ 
+ 
+ 
+Para verificar que se haya creado correctamente, podemos ver el directorio creado en la carpeta de proyectos del servidor. 
+ 
+IMAGEN CARPETAS CREADAS APARTIR DE GESTORIMAGENES(carpetas_gestor.jpg)
+
+
+
+De hecho, levantemos WampServer y ejecutemos la aplicación con el siguiente link: 
+
+IMAGEN de comprovasion de laravel 5 en xampp (laravel5.jpg)
+
+
+OBSERVACIONES
+
+1.-Vimos como instalar, configura xampp o wampp y como abrir un localhost con estos.
+
+2.-Vimos como instalar y configurar el software composer
+
+3.-Vimos como descargar los componentes necesarios para laravel
+
+4.-Obervamos que las plataformas wampp y xampp tienen componentes similares
+
+
+CONCLUSIONES
+
+
+1.-Creamos un proyecto de la versión 5.0 de laravel ya que este posee componentes que sus otras versiones no tiene
+
+2.-Configuramos el IDE de desarrollo laravel
+
+3.-Vimos como correr laravel 5 en un locahost de xampp
+
+4.-Instalamos plugins(paquetes) para la plataforma sublime text
+
+
+
+
+
+

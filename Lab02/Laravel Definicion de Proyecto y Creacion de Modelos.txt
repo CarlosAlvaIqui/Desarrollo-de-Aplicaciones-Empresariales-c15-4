@@ -1,0 +1,42 @@
+
+Alumno Carlos Enrique Alvarez Iquiapaza
+4C15 B
+
+DEFINICION DEPROYECTO Y CREACION DE MODELOS
+
+Creando un Dominio Local
+
+3.Probemos el link creado en nuestro browser, debería abrirse la página de xamp o wamp
+Imagen de link creado en browser(browser.jpg)
+
+
+Sin embargo, la página a la que hemos sido re-direccionados, es la página principal de xamp o wamp, 
+Imagen de xampp dashboard(dash.jpg)
+
+4.	Vamos modificar el archivo:  
+ 
+a.	En WAMPSERVER: C:\wamp64\bin\apache\apache2.4.17\conf\extra\httpd-vhosts.conf 
+b.	En XAMP: C:\xamp\apache\conf\extra\httpd-vhosts.conf 
+
+Imagen de servername(server.jpg)
+  
+
+CONFIGURANDO EL ENTORNO Y EL PROYECTO DE LARAVEL
+
+imagen de artisan list(artisan.jpg)
+
+
+OBSERVACION 
+
+
+1.-Vimos como es la realizacion de un formulario basico en php 
+2.-Vimos en que carpeta se encuentra el trait de php
+3.-Vimos en que parte se deve usar el trait 
+
+
+CONCLUSIONES
+
+
+1.-Aprendimos que significa el la palabra trait y como esta actua con php
+2.-Aprendimos a darle puerto a nuestro php 
+3.-Fue necesario la realizacion y configuracion del laboratorio anterior para la realizacion este
