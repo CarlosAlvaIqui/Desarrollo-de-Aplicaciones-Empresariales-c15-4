@@ -1,0 +1,15 @@
+Observaciones y Conclusiones
+
+-Tras la realizacion de este laboratorio vimos 
+como agregar y personalizar un album en laravel.
+
+-Vimos como agregar imagenes a la vista fotos.
+
+-Vimos como se actulizar el registro del usuario en php laravel.
+
+-En algunos debemos de dar permisos en php.ini para insertar imagenes
+
+-Para la resolucion y entendimiento de este laboratorio
+fue necesario la resolucion de los laboratorios anteriores.
+
+-Profundizamos de una mejor manera la creacion de vistas en php laravel.
