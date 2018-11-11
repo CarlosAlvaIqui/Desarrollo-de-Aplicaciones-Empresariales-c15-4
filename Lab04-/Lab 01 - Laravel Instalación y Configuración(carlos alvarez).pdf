@@ -1,0 +1,27 @@
+Observaciones y Conclusiones
+
+-Hubo un error de BD y para solociunarlo tuvimos que 
+borrar la bd existente y corregir en php.
+
+-Atraves de la resolucion de este laboratorio vimos
+como dar alertas al usuario cuando este registra o cuando
+tiene errores.
+
+-Para la resolucion y entendimiento de este laboratorio
+fue necesario la resolucion de los laboratorios anteriores.
+
+-Vimos como se crea y usa los request en php.
+
+-El archivo .env especificamente la linea debug nos ayuda a encontrar
+erros echo en la pagina.
+
+-Vimos como funciona y como es la creacion de seeders en laravel
+
+-Vimos como crear usuario en laravel para uso de pruebas y como 
+incriptar las contraseñas de estos.
+
+-Vimos como es la validacion de usuarios y registro de estos.
+
+-Vimos como es la recuperacion basica de una cuenta en laravel php.
+
+-composer dumpautoload  nos sirve para resfrecar los seeder.
