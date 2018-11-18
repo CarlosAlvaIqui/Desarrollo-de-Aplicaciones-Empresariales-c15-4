@@ -1,0 +1,21 @@
+Observaciones y conclusiones
+
+Tras la realizacion de este laboratorio vimos como es la creacion de
+albumes y los requerimientos que este necesita para que se pueda crear
+como el nombre y la descripcion
+
+Fue necesario la realizacion y compreson de este laboratorio para la realziacion
+y compresion del laboratorio.
+
+En los request podemos expecificar los limites que tendra los inputs de nuestra web 
+como por ejemplo el maximo de tamaño de una imagen que el nombre o la descripcion
+tiene que ser requerido etc.
+
+En PHP devemos relacionar los request con los controladores correspondientes
+para que podamos usar los recursos de estos.
+
+PHP.INI nosotros podemos controlar muchos aspectos de su funcionamiento.
+
+
+
+

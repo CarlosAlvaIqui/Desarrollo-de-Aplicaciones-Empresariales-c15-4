@@ -1,0 +1,10 @@
+Observaciones y Conclusiones 
+
+Tras la realizacion de este laboratorio vimos como es la eliminacion de fotos y albumes
+
+Fue necesario la realizacion y compresion de laboratorios anteriores para la compresion y 
+realizacion de este.
+
+Agregamos alertas despues de hacer la funcion de elimanar foto o album
+
+Fue necsario usar la funcion delete para que los campos selecionados puedan ser elimanados por el id.

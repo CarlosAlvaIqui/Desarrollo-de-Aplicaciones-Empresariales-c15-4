@@ -1,0 +1,18 @@
+Observaciones y Conclusiones 
+
+Tras la realizacion de este laboratorio vimos como editar o actualizar
+los contendios de fotos y de albumes respectivamente.
+
+Fue necesario la realizacion y compresion de laboratorios anteriores para
+la realuzacion de este.
+
+Añandimos alertas para indicar el usuario el cumplimiento de una funcion
+como por ejemplo actualizar la foto o el album.
+
+Interactuamos con lo request para que delimitar al usuario al momento de actualizar
+las fotos o albumes como por ejemplo el tamaño maximo de la imagen o que inputs deven ser
+requeridos para que la funcion se pueda lanzar.
+
+
+
+
