@@ -1,0 +1,11 @@
+Laravel Mejora de la Aplicación 
+Observaciones y Conclusiones
+
+Mediantes la realizacion del laboratorio vimos como organizar 
+nuestros divs de fotos y albumes de una mejor manera
+
+Fue necesario la realizacion de laboratorios anteriores para la compresion
+y realizacion de este
+
+php artisan migrate:refresh –seed  actua como una actualizacion de las migraciones
+ya que dashace todas las migraciones y las ejecuta otra vez
